@@ -1,0 +1,5608 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2D6",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2D6|Reference concentration",
+          "Value": 0.4,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (liver)",
+          "Value": 51.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.00768702814
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.768702814
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0208304736
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0223404255
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2D6"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C19",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2C19|Reference concentration",
+          "Value": 0.76,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (liver)",
+          "Value": 26.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00014961101137
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0003526545268
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00015816021202
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00040608703086
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2C19"
+      }
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "Belle 2002, n=22",
+      "Seed": 444647046,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 38.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_WT, n=10",
+      "Seed": 370860718,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "Asian_Tanaka_1996",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 22.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 64.11,
+          "Unit": "kg"
+        },
+        "Height": {
+          "Value": 171.5,
+          "Unit": "cm"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_10, n=9",
+      "Seed": 370911296,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "Asian_Tanaka_1996",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 32.2,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 65.08,
+          "Unit": "kg"
+        },
+        "Height": {
+          "Value": 174.8,
+          "Unit": "cm"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    },
+    {
+      "Name": "Jung 2020 10_10, n=7",
+      "Seed": 370982578,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "Asian_Tanaka_1996",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 22.7,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 61.05,
+          "Unit": "kg"
+        },
+        "Height": {
+          "Value": 168.9,
+          "Unit": "cm"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    },
+    {
+      "Name": "Todor 2015, n=22",
+      "Seed": 371517250,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 25.27,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 72.22,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Atomoxetine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.4885087539,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Mohan 2015",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.65,
+              "Unit": "Log Units"
+            }
+          ]
+        },
+        {
+          "Name": "ChemAxon",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.81,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.3,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo",
+                "Description": "Yu 2016"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Calculated",
+          "IsDefault": false,
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 3.9,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "Watanabe 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 10.29,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize - atomoxetine hydrochloride"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize - atomoxetine hydrochloride"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.23E-05,
+              "Unit": "cm/min"
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.8,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ring 2001 (4-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 115.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 37.4392066898,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 102.25,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0.5",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 16.87,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1.25",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 53.68,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ring 2002",
+          "Molecule": "CYP2C19",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 97.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 19.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 83.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 165.2291488831,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 3.6,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Unknown",
+                "Description": "Sauer 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 34.0,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 255.35,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Paroxetine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "optimized",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.95,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Agrawal 2013",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.95,
+              "Unit": "Log Units"
+            }
+          ]
+        },
+        {
+          "Name": "ChemAxon",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.15,
+              "Unit": "Log Units"
+            }
+          ]
+        },
+        {
+          "Name": "Zhong 2014",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.4,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.0487321988,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Kaye et al 1989"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Khatavkar 2013 (pH 4.5)",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 7.31,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 4.5
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 3.93E-05,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.9,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Agrawal 2013"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Jornil 2010",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 2' on 2019-08-02 15:17"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.3693020782,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'iv + po solution + PMs + EMs - CYP2D6 kcat - CYP3A4/hep. clearance, permeability + Lipophilicity fixed' on 2021-11-11 09:41"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Jornil 2010",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 5.32,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 4.7,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.01,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "Obach, 2007",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.17,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Obach et al. 2007"
+              }
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 0.16738,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "Obach 2007",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.011,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Obach et al. 2007"
+              }
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 4.48,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Obach et al. 2007"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=2",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 4.09,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=1.5",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.71,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=1.25",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.11,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=1",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.56,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=0.5",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.66,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=0",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=3",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 7.58,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "AS=0.75",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 9.7,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.028,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Jornil et al. 2010"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.08,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.0487321988
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 3.95,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 2.2538632474,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "F",
+          "Value": 1.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 329.37,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+      "FormulationType": "Formulation_Tablet_Lint80",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (80% dissolved)",
+          "Value": 5.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "solution",
+      "FormulationType": "Formulation_Dissolved"
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 17.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 264.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 11.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 9.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Atomoxetine - po, 25 mg, sd",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 25.0,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Todor 2015 - Atomoxetine - po, 25 mg, sd @ 120h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 25.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 120.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 4.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 48.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 4.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Atomoxetine - po, 20 mg, sd",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 20.0,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 144.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 20.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 7.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid n=22",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Belle 2002 - Atomoxetine - po, 20 mg, bid"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 192.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)|Atomoxetine (Weibull, Strattera Lilly)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Belle 2002, n=22",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ring 2001 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid, 9 doses (Control)",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Belle 2002 - Atomoxetine - po, 20 mg, bid n=22|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Belle 2002_ATX_Control-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Belle 2002 - Atomoxetine - po, 20 mg, bid|Time",
+              "Y": "Belle 2002 - Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nBelle 2002 - Atomoxetine - po, 20 mg, bid n=22\n2024-04-24 14:54"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid n=22",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Belle 2002 - Paroxetine - po, 20 mg, qd",
+        "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 492.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17|Atomoxetine (Weibull, Strattera Lilly)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days|solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Belle 2002, n=22",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ring 2001 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid, days 12-17",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paroxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Jornil 2010",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Jornil 2010",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Belle 2002 - Paroxetine - po, 20 mg, qd, 17 days",
+            "Formulations": [
+              {
+                "Name": "solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 181.6248,
+              "Max": 326.8294,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": -35.2321,
+              "Max": 98.33773,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid n=22|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Paroxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid n=22|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Belle 2002_Paroxetine-Paroxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Belle 2002 - Paroxetine - po, 20 mg, qd|Time",
+              "Y": "Belle 2002 - Paroxetine - po, 20 mg, qd|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Belle 2002_ATX_PAR_DDI-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid|Time",
+              "Y": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nBelle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid n=22\n2024-04-24 14:58"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP3A4-Obach 2007",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP2D6-Obach, 2007",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Atomoxetine - po, 20 mg, sd|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 WT_WT, n=10",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=2",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Atomoxetine - po, 20 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX WT_WT, ATX Control-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd|Time",
+              "Y": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10\n2024-04-24 15:43"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd n=9",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Atomoxetine - po, 20 mg, sd|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 WT_10, n=9",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=1.25",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Atomoxetine - po, 20 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd n=9|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX WT_10, ATX Control-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd|Time",
+              "Y": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 WT_10 - Atomoxetine - po, 20 mg, sd n=9\n2024-04-24 15:26"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd n=7",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Atomoxetine - po, 20 mg, sd|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 10_10, n=7",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=0.5",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Atomoxetine - po, 20 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd n=7|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX 10_10, ATX Control-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd|Time",
+              "Y": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 10_10 - Atomoxetine - po, 20 mg, sd n=7\n2024-04-24 15:23"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=9",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 WT_10, n=9",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=1.25",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paroxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Jornil 2010",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=1.25",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days",
+            "Formulations": [
+              {
+                "Name": "solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 162.8265,
+              "Max": 173.3523,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 2.102253,
+              "Max": 106.5142,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=9|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Paroxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=9|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX WT_10, ATX DDI PAR-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+              "Y": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=9\n2024-04-24 15:35"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP3A4-Obach 2007",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP2D6-Obach, 2007",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Paroxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=10",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 WT_WT, n=10",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=2",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paroxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Jornil 2010",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=2",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days",
+            "Formulations": [
+              {
+                "Name": "solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 135.1191,
+              "Max": 177.5331,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 14.47199,
+              "Max": 427.7277,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=10|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Paroxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=10|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX WT_WT, ATX DDI PAR-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+              "Y": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=10\n2024-04-24 15:45"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP3A4-Obach 2007",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP2D6-Obach, 2007",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Paroxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=7",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days|solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Jung 2020 10_10, n=7",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=0.5",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Atomoxetine - po, 20 mg, sd @ 144h",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paroxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Jornil 2010",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-AS=0.5",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jung 2020 - Paroxetine - po, 20 mg, qd, 7 days",
+            "Formulations": [
+              {
+                "Name": "solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=7|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Paroxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=7|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Jung 2020 ATX 10_10, ATX DDI PAR-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+              "Y": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nJung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=7\n2024-04-24 15:25"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP3A4-Obach 2007",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP2D6-Obach, 2007",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Todor 2015  - Atomoxetine - po, 25 mg, sd n=22",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Todor 2015  - Atomoxetine - po, 25 mg, sd"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Atomoxetine - po, 25 mg, sd|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Todor 2015, n=22",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ring 2001 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Atomoxetine - po, 25 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Todor 2015  - Atomoxetine - po, 25 mg, sd n=22|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Todor 2015 ATX EM, ATX Control-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Todor 2015  - Atomoxetine - po, 25 mg, sd|Time",
+              "Y": "Todor 2015  - Atomoxetine - po, 25 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nTodor 2015  - Atomoxetine - po, 25 mg, sd n=22\n2024-04-24 15:46"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    },
+    {
+      "Name": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6 n=22",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6"
+      ],
+      "Solver": {
+        "AbsTol": 1E-15,
+        "RelTol": 1E-10
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Todor 2015 - Atomoxetine - po, 25 mg, sd @ 120h|Atomoxetine (Weibull, Strattera Lilly)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days|solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Todor 2015, n=22",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ring 2001 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Todor 2015 - Atomoxetine - po, 25 mg, sd @ 120h",
+            "Formulations": [
+              {
+                "Name": "Atomoxetine (Weibull, Strattera Lilly)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paroxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Jornil 2010",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Jornil 2010",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Todor 2015 - Paroxetine - po, 20 mg, bid/qd, 6 days",
+            "Formulations": [
+              {
+                "Name": "solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6 n=22|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Paroxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6 n=22|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Todor 2015 ATX EM, ATX DDI PAR-Atomoxetine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6|Time",
+              "Y": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Paroxetine-Atomoxetine-DDI\nTodor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6 n=22\n2024-04-24 15:48"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP3A4-Obach 2007",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Paroxetine"
+        },
+        {
+          "Name": "CYP2D6-Obach, 2007",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Paroxetine"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Belle 2002 - Atomoxetine - po, 20 mg, bid",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Belle 2002 - Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                0.01706978,
+                0.01535955,
+                0.0191138,
+                0.08088458,
+                0.05050177,
+                0.05835781,
+                0.05803649,
+                0.03822137,
+                0.02764245,
+                0.01740108,
+                0.01811488,
+                0.005119435
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Belle 2002 - Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            19.6952915,
+            14.78413,
+            20.79443,
+            133.062,
+            171.27211,
+            162.7023,
+            147.3165,
+            85.14203,
+            47.85468,
+            16.562109,
+            6.08233833,
+            2.437215
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Belle 2002 - Atomoxetine - po, 20 mg, bid|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          72.0,
+          84.0,
+          96.0,
+          96.5,
+          97.0,
+          98.0,
+          99.0,
+          100.0,
+          102.0,
+          108.0,
+          114.0,
+          120.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                0.168256313,
+                0.1976064,
+                0.1597226,
+                0.2126222,
+                0.21056439,
+                0.1931796,
+                0.2310684,
+                0.263817817,
+                0.22457251,
+                0.1863512,
+                0.135151789,
+                0.124906704,
+                0.1122875,
+                0.0607493781,
+                0.03208179,
+                0.01365307
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            325.8437,
+            359.494019,
+            326.2565,
+            450.4644,
+            613.940063,
+            633.016357,
+            627.873169,
+            579.6769,
+            496.6609,
+            374.925018,
+            250.7938,
+            183.6665,
+            116.2932,
+            60.18019,
+            26.45469,
+            8.77508
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          360.0,
+          372.0,
+          384.0,
+          384.5,
+          385.0,
+          385.5,
+          386.0,
+          388.0,
+          390.0,
+          396.0,
+          402.0,
+          408.0,
+          420.0,
+          432.0,
+          456.0,
+          480.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Belle 2002 - Paroxetine - po, 20 mg, qd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Paroxetine_"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Belle 2002 - Paroxetine - po, 20 mg, qd|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 329.37
+              },
+              "Values": [
+                0.0112,
+                0.01628,
+                0.0153100006,
+                0.0157700013,
+                0.01854,
+                0.01818,
+                0.0222899988,
+                0.01926,
+                0.01942,
+                0.01536,
+                0.01667
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Belle 2002 - Paroxetine - po, 20 mg, qd|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 329.37
+          },
+          "Values": [
+            19.0,
+            21.26,
+            21.37,
+            24.24,
+            28.84,
+            32.54,
+            38.32,
+            35.75,
+            30.41,
+            24.22,
+            21.73
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Belle 2002 - Paroxetine - po, 20 mg, qd|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          216.18,
+          240.19,
+          264.13,
+          265.04,
+          265.57,
+          266.11,
+          268.25,
+          270.1,
+          276.02,
+          282.02,
+          287.86
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                68.821,
+                62.862,
+                46.094,
+                34.8770027,
+                35.324,
+                39.3669968,
+                35.0949974,
+                34.8640022,
+                29.2069988,
+                22.799,
+                19.18,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            230.028,
+            237.928009,
+            210.310013,
+            175.362991,
+            151.128,
+            132.53,
+            113.376,
+            111.149,
+            78.4780045,
+            49.7530022,
+            41.3249969,
+            8.231
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          10.0,
+          12.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                79.44,
+                37.483,
+                26.574,
+                26.853,
+                28.8109989,
+                26.013,
+                27.413,
+                25.734,
+                17.063,
+                14.266,
+                9.79,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            180.413,
+            182.923,
+            148.79,
+            126.685,
+            106.259,
+            101.497,
+            77.706,
+            69.007,
+            35.972,
+            21.119,
+            12.979,
+            1.343
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          10.0,
+          12.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                52.91,
+                37.743,
+                26.104,
+                22.0460014,
+                17.99,
+                14.109,
+                10.23,
+                9.524,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            151.349,
+            126.684,
+            100.96,
+            88.994,
+            75.97,
+            60.477,
+            45.714,
+            33.474,
+            16.649,
+            7.93700027,
+            5.22
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          10.0,
+          12.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Todor 2015  - Atomoxetine - po, 25 mg, sd",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Todor 2015  - Atomoxetine - po, 25 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                112.099,
+                84.115,
+                83.902,
+                67.875,
+                70.949,
+                62.958,
+                59.087,
+                60.731,
+                40.993,
+                30.799,
+                26.477,
+                8.676001
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Todor 2015  - Atomoxetine - po, 25 mg, sd|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            151.186,
+            188.955,
+            174.14,
+            148.263992,
+            136.577988,
+            118.215,
+            110.911995,
+            89.418,
+            50.396,
+            31.4070015,
+            20.3480015,
+            2.39300013
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Todor 2015  - Atomoxetine - po, 25 mg, sd|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          10.0,
+          12.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                126.039,
+                137.724,
+                117.9,
+                117.065,
+                113.1,
+                112.057,
+                140.646,
+                113.414,
+                96.875,
+                92.179,
+                106.648,
+                68.182,
+                53.931,
+                32.026
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            225.89,
+            273.259,
+            300.387,
+            305.395,
+            309.36,
+            295.796021,
+            326.053,
+            316.037,
+            267.416,
+            219.004,
+            206.901,
+            97.348,
+            54.153,
+            27.025
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          120.5,
+          121.0,
+          121.5,
+          122.0,
+          122.5,
+          123.0,
+          124.0,
+          126.0,
+          128.0,
+          130.0,
+          132.0,
+          144.0,
+          156.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                118.623,
+                98.734,
+                86.659,
+                92.696,
+                82.042,
+                92.3409958,
+                93.406,
+                104.416,
+                100.154,
+                75.6489944,
+                79.2,
+                41.909
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            268.465,
+            294.754,
+            304.705,
+            295.478,
+            257.128,
+            251.096985,
+            240.457016,
+            284.88,
+            249.036987,
+            170.93,
+            176.286,
+            75.235
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          144.5,
+          145.0,
+          145.5,
+          146.0,
+          146.5,
+          147.0,
+          148.0,
+          150.0,
+          152.0,
+          154.0,
+          156.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                129.51,
+                97.902,
+                82.237,
+                64.056,
+                47.833,
+                55.664,
+                48.951,
+                91.748,
+                84.476,
+                65.173996,
+                65.175,
+                30.769001
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            251.182,
+            312.992981,
+            313.266022,
+            281.091,
+            247.517,
+            242.476,
+            221.762,
+            311.804016,
+            236.811,
+            169.371,
+            163.189,
+            60.923
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          144.5,
+          145.0,
+          145.5,
+          146.0,
+          146.5,
+          147.0,
+          148.0,
+          150.0,
+          152.0,
+          154.0,
+          156.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                84.661,
+                69.1079941,
+                49.775,
+                43.775,
+                47.998,
+                56.886,
+                57.998,
+                89.3279953,
+                97.772995,
+                76.885,
+                79.773,
+                45.996
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            262.312,
+            335.222015,
+            310.139984,
+            278.391022,
+            274.639,
+            263.555,
+            252.498016,
+            334.599,
+            288.263,
+            197.930008,
+            219.590012,
+            90.234
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          144.5,
+          145.0,
+          145.5,
+          146.0,
+          146.5,
+          147.0,
+          148.0,
+          150.0,
+          152.0,
+          154.0,
+          156.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "paroxetine ddi",
+      "Classifiables": [
+        "Belle 2002 - Atomoxetine - po, 20 mg, bid",
+        "Belle 2002 - Paroxetine - po, 20 mg, qd",
+        "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid",
+        "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd",
+        "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd",
+        "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd",
+        "Todor 2015  - Atomoxetine - po, 25 mg, sd",
+        "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+        "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+        "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6",
+        "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "paroxetine ddi",
+      "Classifiables": [
+        "Belle 2002 - Atomoxetine - po, 20 mg, bid n=22",
+        "Belle 2002 - DDI - Paroxetine-Atomoxetine - po, 20 mg, bid n=22",
+        "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd n=7",
+        "Jung 2020 10_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=7",
+        "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd n=9",
+        "Jung 2020 WT_10 - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=9",
+        "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10",
+        "Jung 2020 WT_WT - DDI - Paroxetine-Atomoxetine - po, 20 mg, sd, day 6 n=10",
+        "Todor 2015  - Atomoxetine - po, 25 mg, sd n=22",
+        "Todor 2015 - DDI - Paroxetine-Atomoxetine - po, 25 mg, sd, day 6 n=22"
+      ]
+    }
+  ]
+}
